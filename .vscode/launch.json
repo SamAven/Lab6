@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aven/Documents/GitHub/Lab6",
+      "program": "/Users/aven/Documents/GitHub/Lab6/build/Debug/outDebug"
+    }
+  ]
+}
