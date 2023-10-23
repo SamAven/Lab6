@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/aven/Documents/GitHub/Lab6",
-      "program": "/Users/aven/Documents/GitHub/Lab6/build/Debug/outDebug"
+      "cwd": "/Users/aven/Documents/GitHub/Lab6/Assignment1",
+      "program": "/Users/aven/Documents/GitHub/Lab6/Assignment1/build/Debug/outDebug"
     }
   ]
 }
